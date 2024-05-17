@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on big companies
-- 📫 How to reach me raffiullahnaim87@gmail.com
+- 📫 How to reach me raffiullahnaim22@gmail.com
 - 
 
 <!---
