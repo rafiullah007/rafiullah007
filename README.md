@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I'm not just coding—I'm also known for adding a bit of humor to every line, making debugging a little less painful!**
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
